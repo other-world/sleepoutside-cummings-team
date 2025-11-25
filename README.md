@@ -20,6 +20,11 @@
 - `npm run build` to build final files when you are ready to turn in.
 
 
+### Important Links
+ - Github repo: https://github.com/other-world/sleepoutside-cummings-team
+ - Trello Board: https://trello.com/b/UuzDOTtS/wdd330-sleep-outside-team
+ - Netlify URL: https://sleepoutside-cummings-team.netlify.app/
+
 ---
 _BYU-Pathway Worldwide improves lives through access to spiritually based, online affordable higher education. Its mission is to develop disciples of Jesus Christ who are leaders in their homes, the Church, and their communities._
 
